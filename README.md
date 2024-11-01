@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
-<h3 align="center">I’m a 3rd-year Computer Science Engineering student with a passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming languages, including C++, Python, R, and Java, which I use to tackle complex challenges and create meaningful solutions.</h3>
+<h3 align="center">I’m a 3rd-year Computer Science Engineering student with a passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming languages, including C++,Java, Python and R which I use to tackle complex challenges and create meaningful solutions.</h3>
 <img align="right" alt="Coding" width="400" src=https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-2104&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-2104" /> </p>
 
-- 🌱 I’m currently learning **Full stack Web development**
+- 🌱 I’m currently learning **Python and its built-in libraries along with SQL and TensorFlow**
 
 - 📫 How to reach me **iamrahulm650@gmail.com**
 
