@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Mishra</h1>
-<h3 align="center">I’m a 3rd-year Computer Science Engineering student with a passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming languages, including C++,Java and which I use to tackle complex challenges and create meaningful solutions.</h3>
+<h3 align="center">I’m a 3rd-year Computer Science Engineering student with a passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming languages, including C++, Java and JavaScript which I use to tackle complex challenges and create meaningful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-2104&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-2104" /> </p>
 
