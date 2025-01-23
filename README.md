@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahull_04" target="blank"><img src="https://img.shields.io/twitter/follow/rahull_04?logo=twitter&style=for-the-badge" alt="rahull_04" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning ** Java Full Stack Web Development**
 
 - 📫 How to reach me **iamrahulm650@gmail.com**
 
